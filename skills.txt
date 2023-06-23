@@ -1,0 +1,32 @@
+Hard Skills:
+1. Basic theory (What is testing, Bug reports, Documentation, Types of testing, Testing methods
+   Testing directions, SDLC, STLC)
+2. Client-Server Architecture
+3. HTTP Request Methods ( GET, POST, PUT, DELETE, PATCH, HEAD, OPTIONS)
+4. HTTP Server Response Codes (1xx: Informational, 2xx: Success, 3xx: Redirection
+   4xx: Client errors, 5xx: Server errors)
+5. HTTP Request and Response Structures
+6. JSON and XML
+7. API Testing with Postman (JavaScript in Postman, API automated testing)
+8. Retrieving and Reading Logs from an External Server
+9. Sniffing HTTP Web Traffic with Charles and Fiddler
+10. Web Browser Dev Tools (Google Chrome, FireFox)
+11. VPN
+12. Mobile Testing
+13. iOS and Android Specifics (iOS features and guidelines, Android features and guidelines)
+14. Building iOS Applications with Xcode
+15. Building Android Applications with Android Studio
+16. ADB (Android Debug Bridge)
+17. Setting up Proxy and VPN on iOS and Android
+18. Mobile Traffic Intercept (Sniffing) with Charles and Fiddler on iOS and Android
+19. Linux Command Line (Terminal)
+20. Bash Scripting Basics and Server Automation
+21. Remote Server Access
+22. SQL Basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+23. PostgreSQL Database
+24. Redis NoSQL Database
+25. Load Testing with JMeter
+26. Scrum Development Methodology
+27. Test Design Techniques (Equivalence classes, Boundary values
+   Combinatorial techniques (Pairwise, Orthogonal Arrays, All-Pairs, Each Choice), State-based testing)
+28. Python (Learning the basics, Creating client-server applications)
